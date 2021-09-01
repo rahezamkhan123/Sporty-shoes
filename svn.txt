@@ -1,0 +1,20 @@
+ckage com.rahezam.app;
+
+public class StaticMethod {
+
+	public static void main(String[] args) {
+			name_of_cat("Dolly");
+					meow();
+						}
+
+							public static void name_of_cat(String name) {
+									System.out.println(String.format("Name is: %s", name));
+										}
+
+											public static void meow() {
+													System.out.println("I am meow");
+
+														}
+
+														}
+
